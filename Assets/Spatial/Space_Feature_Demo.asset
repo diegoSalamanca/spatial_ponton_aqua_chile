@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Space_Feature_Demo
   m_EditorClassIdentifier: 
   version: 1
-  sku: 
+  sku: 662664b45eac1d14ede97198
   packageName: Aquachile_ponton
-  thumbnail: {fileID: 2800000, guid: ec6e61a8993a64290991cfc322ec43ea, type: 3}
+  thumbnail: {fileID: 2800000, guid: 215f6028f36f3ee4ab27314dd261ad50, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
-  worldID: 
+  worldID: p1o5gwdnx56ennc981qtm
   scene: {fileID: 102900000, guid: 103defc525312e643b710e62f1caea34, type: 3}
   csharpAssembly: {fileID: 0}
   embeddedPackageAssets: []
