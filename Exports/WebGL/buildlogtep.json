@@ -1,43 +1,43 @@
 {
-"Date": "4/26/2024 12:25:35 AM",
+"Date": "4/29/2024 1:39:10 PM",
 "UnityVersion": "2021.3.21f1",
 "com.unity.scriptablebuildpipeline": "1.21.1",
 "traceEvents": [
-{"name": "AssetDatabase.SaveAssets", "ph": "X", "dur": 527.8, "tid": 1, "ts": 257, "pid": 1}
-,{"name": "SwitchToBuildPlatform", "ph": "X", "dur": 16.5000000000006, "tid": 1, "ts": 13942, "pid": 1}
-,{"name": "RebuildSpriteAtlasCache", "ph": "X", "dur": 1.40000000000029, "tid": 1, "ts": 13990, "pid": 1}
-,{"name": "BuildPlayerScripts", "ph": "X", "dur": 1154227.7, "tid": 1, "ts": 14014, "pid": 1}
-,{"name": "PostScriptsCallback", "ph": "X", "dur": 3.20000000010623, "tid": 1, "ts": 1174825, "pid": 1}
-,{"name": "CalculateSceneDependencyData", "ph": "X", "dur": 339908.2, "tid": 1, "ts": 1174877, "pid": 1}
-,{"name": "Calculate Scene Dependencies", "ph": "X", "dur": 339900.9, "tid": 1, "ts": 1174882, "pid": 1, "args": {"0":"103defc525312e643b710e62f1caea34"}}
-,{"name": "CalculateCustomDependencyData", "ph": "X", "dur": 4.99999999988177, "tid": 1, "ts": 1518600, "pid": 1}
-,{"name": "CalculateAssetDependencyData", "ph": "X", "dur": 2.90000000018154, "tid": 1, "ts": 1518652, "pid": 1}
-,{"name": "Gathering Cache Entries to Load", "ph": "X", "dur": 0.49999999987449, "tid": 1, "ts": 1518654, "pid": 1}
-,{"name": "Gathering Cache Entries to Save", "ph": "X", "dur": 0, "tid": 1, "ts": 1518655, "pid": 1}
-,{"name": "StripUnusedSpriteSources", "ph": "X", "dur": 3.30000000008113, "tid": 1, "ts": 1518676, "pid": 1}
-,{"name": "PostDependencyCallback", "ph": "X", "dur": 0.300000000152068, "tid": 1, "ts": 1518694, "pid": 1}
-,{"name": "GenerateBundlePacking", "ph": "X", "dur": 185.09999999992, "tid": 1, "ts": 1518716, "pid": 1}
-,{"name": "GenerateBundleCommands", "ph": "X", "dur": 9486.70000000016, "tid": 1, "ts": 1518924, "pid": 1}
-,{"name": "GenerateSubAssetPathMaps", "ph": "X", "dur": 0.600000000076761, "tid": 1, "ts": 1528469, "pid": 1}
-,{"name": "GenerateBundleMaps", "ph": "X", "dur": 105.000000000018, "tid": 1, "ts": 1528491, "pid": 1}
-,{"name": "Temporary Map Creations", "ph": "X", "dur": 57.8000000000429, "tid": 1, "ts": 1528491, "pid": 1}
-,{"name": "Populate BuildReferenceMaps", "ph": "X", "dur": 1.19999999992615, "tid": 1, "ts": 1528549, "pid": 1}
-,{"name": "Populate BuildUsageTagSet", "ph": "X", "dur": 45.5000000001746, "tid": 1, "ts": 1528550, "pid": 1}
-,{"name": "PostPackingCallback", "ph": "X", "dur": 0.0999999999748979, "tid": 1, "ts": 1528612, "pid": 1}
-,{"name": "WriteSerializedFiles", "ph": "X", "dur": 459443.7, "tid": 1, "ts": 1528642, "pid": 1}
-,{"name": "RunCachedOperation", "ph": "X", "dur": 459438.6, "tid": 1, "ts": 1528647, "pid": 1, "args": {"0":"Total Entries: 1, Processed: 1, Cached: 0"}}
-,{"name": "Process Entries", "ph": "X", "dur": 459426.2, "tid": 1, "ts": 1528648, "pid": 1}
-,{"name": "Writing SceneBundleWriteOperation", "ph": "X", "dur": 443665.1, "tid": 1, "ts": 1528687, "pid": 1, "args": {"0":"CAB-f0303b85fcee0a86e381b691eaa0a057.sharedAssets"}}
-,{"name": "Process Cached Entries", "ph": "X", "dur": 1.19999999992615, "tid": 1, "ts": 1988075, "pid": 1}
-,{"name": "ArchiveAndCompressBundles", "ph": "X", "dur": 1021558.7, "tid": 1, "ts": 1988157, "pid": 1}
-,{"name": "CreateWorkItems", "ph": "X", "dur": 9.00000000001455, "tid": 1, "ts": 1988163, "pid": 1}
-,{"name": "CopyingCachedFiles", "ph": "X", "dur": 0.199999999949796, "tid": 1, "ts": 1988173, "pid": 1}
-,{"name": "ArchiveItems", "ph": "X", "dur": 1021449.6, "tid": 1, "ts": 1988173, "pid": 1, "args": {"0":"Archiving 1 Bundles"}}
-,{"name": "ArchiveSingleItem", "ph": "X", "dur": 1014541.2, "tid": 114, "ts": 1988189, "pid": 1, "args": {"0":"aquachile-ponton_0"}}
-,{"name": "Copying From Cache", "ph": "X", "dur": 3287.00000000003, "tid": 114, "ts": 2999442, "pid": 1, "args": {"0":"/Users/diegosalamanca/Desktop/Unity Projects/Avanze/spatial_ponton_aqua_chile/Temp/ContentBuildData/aquachile-ponton_0 -> /Users/diegosalamanca/Desktop/Unity Projects/Avanze/spatial_ponton_aqua_chile/Exports/WebGL/aquachile-ponton_0"}}
-,{"name": "PostArchiveProcessing", "ph": "X", "dur": 76.0999999997694, "tid": 1, "ts": 3009637, "pid": 1}
-,{"name": "AppendBundleHash", "ph": "X", "dur": 0.599999999849388, "tid": 1, "ts": 3009778, "pid": 1}
-,{"name": "GenerateLinkXml", "ph": "X", "dur": 0.199999999949796, "tid": 1, "ts": 3009802, "pid": 1}
-,{"name": "PostWritingCallback", "ph": "X", "dur": 0.199999999949796, "tid": 1, "ts": 3009820, "pid": 1}
+{"name": "AssetDatabase.SaveAssets", "ph": "X", "dur": 790.3, "tid": 1, "ts": 10878, "pid": 1}
+,{"name": "SwitchToBuildPlatform", "ph": "X", "dur": 88.799999999992, "tid": 1, "ts": 70515, "pid": 1}
+,{"name": "RebuildSpriteAtlasCache", "ph": "X", "dur": 85.5999999999995, "tid": 1, "ts": 70722, "pid": 1}
+,{"name": "BuildPlayerScripts", "ph": "X", "dur": 1339308.9, "tid": 1, "ts": 70826, "pid": 1}
+,{"name": "PostScriptsCallback", "ph": "X", "dur": 132.699999999886, "tid": 1, "ts": 1420018, "pid": 1}
+,{"name": "CalculateSceneDependencyData", "ph": "X", "dur": 394978, "tid": 1, "ts": 1420272, "pid": 1}
+,{"name": "Calculate Scene Dependencies", "ph": "X", "dur": 393121.8, "tid": 1, "ts": 1422115, "pid": 1, "args": {"0":"103defc525312e643b710e62f1caea34"}}
+,{"name": "CalculateCustomDependencyData", "ph": "X", "dur": 789.800000000014, "tid": 1, "ts": 1819201, "pid": 1}
+,{"name": "CalculateAssetDependencyData", "ph": "X", "dur": 1675.99999999993, "tid": 1, "ts": 1820079, "pid": 1}
+,{"name": "Gathering Cache Entries to Load", "ph": "X", "dur": 2.10000000015498, "tid": 1, "ts": 1821751, "pid": 1}
+,{"name": "Gathering Cache Entries to Save", "ph": "X", "dur": 0.600000000076761, "tid": 1, "ts": 1821754, "pid": 1}
+,{"name": "StripUnusedSpriteSources", "ph": "X", "dur": 370.400000000018, "tid": 1, "ts": 1821799, "pid": 1}
+,{"name": "PostDependencyCallback", "ph": "X", "dur": 47.0000000000255, "tid": 1, "ts": 1822192, "pid": 1}
+,{"name": "GenerateBundlePacking", "ph": "X", "dur": 4703.59999999982, "tid": 1, "ts": 1822291, "pid": 1}
+,{"name": "GenerateBundleCommands", "ph": "X", "dur": 19398.2000000001, "tid": 1, "ts": 1827067, "pid": 1}
+,{"name": "GenerateSubAssetPathMaps", "ph": "X", "dur": 537.100000000009, "tid": 1, "ts": 1846527, "pid": 1}
+,{"name": "GenerateBundleMaps", "ph": "X", "dur": 2008.39999999994, "tid": 1, "ts": 1847088, "pid": 1}
+,{"name": "Temporary Map Creations", "ph": "X", "dur": 739.700000000084, "tid": 1, "ts": 1848174, "pid": 1}
+,{"name": "Populate BuildReferenceMaps", "ph": "X", "dur": 31.8999999999505, "tid": 1, "ts": 1848916, "pid": 1}
+,{"name": "Populate BuildUsageTagSet", "ph": "X", "dur": 147.699999999986, "tid": 1, "ts": 1848948, "pid": 1}
+,{"name": "PostPackingCallback", "ph": "X", "dur": 58.3000000001448, "tid": 1, "ts": 1849164, "pid": 1}
+,{"name": "WriteSerializedFiles", "ph": "X", "dur": 682195, "tid": 1, "ts": 1849312, "pid": 1}
+,{"name": "RunCachedOperation", "ph": "X", "dur": 680958.8, "tid": 1, "ts": 1850548, "pid": 1, "args": {"0":"Total Entries: 1, Processed: 1, Cached: 0"}}
+,{"name": "Process Entries", "ph": "X", "dur": 680344.4, "tid": 1, "ts": 1850577, "pid": 1}
+,{"name": "Writing SceneBundleWriteOperation", "ph": "X", "dur": 660059, "tid": 1, "ts": 1850813, "pid": 1, "args": {"0":"CAB-f0303b85fcee0a86e381b691eaa0a057.sharedAssets"}}
+,{"name": "Process Cached Entries", "ph": "X", "dur": 11.7999999997664, "tid": 1, "ts": 2530923, "pid": 1}
+,{"name": "ArchiveAndCompressBundles", "ph": "X", "dur": 1082529.8, "tid": 1, "ts": 2535794, "pid": 1}
+,{"name": "CreateWorkItems", "ph": "X", "dur": 1498.9999999998, "tid": 1, "ts": 2537123, "pid": 1}
+,{"name": "CopyingCachedFiles", "ph": "X", "dur": 6.89999999985957, "tid": 1, "ts": 2538626, "pid": 1}
+,{"name": "ArchiveItems", "ph": "X", "dur": 1075081, "tid": 1, "ts": 2538728, "pid": 1, "args": {"0":"Archiving 1 Bundles"}}
+,{"name": "ArchiveSingleItem", "ph": "X", "dur": 1072401.4, "tid": 194, "ts": 2538745, "pid": 1, "args": {"0":"aquachile-ponton_0"}}
+,{"name": "Copying From Cache", "ph": "X", "dur": 4717.89999999987, "tid": 194, "ts": 3606427, "pid": 1, "args": {"0":"/Users/diegosalamanca/Desktop/Unity Projects/Avanze/spatial_ponton_aqua_chile/Temp/ContentBuildData/aquachile-ponton_0 -> /Users/diegosalamanca/Desktop/Unity Projects/Avanze/spatial_ponton_aqua_chile/Exports/WebGL/aquachile-ponton_0"}}
+,{"name": "PostArchiveProcessing", "ph": "X", "dur": 2778.80000000005, "tid": 1, "ts": 3614849, "pid": 1}
+,{"name": "AppendBundleHash", "ph": "X", "dur": 109.699999999975, "tid": 1, "ts": 3618374, "pid": 1}
+,{"name": "GenerateLinkXml", "ph": "X", "dur": 118.69999999999, "tid": 1, "ts": 3618501, "pid": 1}
+,{"name": "PostWritingCallback", "ph": "X", "dur": 39.4000000001142, "tid": 1, "ts": 3618640, "pid": 1}
 ]
 }
