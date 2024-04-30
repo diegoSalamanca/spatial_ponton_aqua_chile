@@ -156,8 +156,8 @@ MonoBehaviour:
   interactText: Interact
   iconType: 0
   icon: {fileID: 0}
-  interactiveRadius: 5
-  visibilityRadius: 10
+  interactiveRadius: 2
+  visibilityRadius: 4
   onInteractEvent:
     id: 0
     unityEventIsSynced: 0
