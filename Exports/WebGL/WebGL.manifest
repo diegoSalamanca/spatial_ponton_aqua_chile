@@ -3,6 +3,6 @@ CompatibilityAssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: aquachile-ponton_0
-      Hash: cb3c13e0417214a8e08de8c53a5103db
-      CRC: 1151474119
+      Hash: 571e8a9dd31f7f0a44f9f521a970a64d
+      CRC: 738671249
       Dependencies: {}
