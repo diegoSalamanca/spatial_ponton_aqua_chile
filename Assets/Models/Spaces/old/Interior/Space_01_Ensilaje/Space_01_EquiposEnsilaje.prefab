@@ -5,7 +5,6 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 2adf5c9687cb60048a229cc652bf9ffa,
@@ -58,19 +57,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -740052033930059586, guid: 2adf5c9687cb60048a229cc652bf9ffa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 2adf5c9687cb60048a229cc652bf9ffa,
         type: 3}
       propertyPath: m_Name
       value: Space_01_EquiposEnsilaje
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2adf5c9687cb60048a229cc652bf9ffa,
-        type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 6799299529742301648}
   m_SourcePrefab: {fileID: 100100000, guid: 2adf5c9687cb60048a229cc652bf9ffa, type: 3}
 --- !u!1 &5244756984677669050 stripped
 GameObject:
