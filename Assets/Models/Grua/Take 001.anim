@@ -7,7 +7,7 @@ AnimationClip:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Take 001
-  serializedVersion: 7
+  serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
   m_UseHighQualityCurve: 1
@@ -248,17 +248,21 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0.000000014901161, y: -0.000000016056717, z: 0.000000012557417, w: 1}
+        value: {x: 0.000000014901161, y: -0.000000016056717, z: 0.000000012557417,
+          w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
-        outSlope: {x: -0.0000000033426593, y: 0.0000000036020518, z: -0.0000000028169465, w: 0}
+        outSlope: {x: -0.0000000033426593, y: 0.0000000036020518, z: -0.0000000028169465,
+          w: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
       - serializedVersion: 3
         time: 13.333334
-        value: {x: 0.000000014901161, y: -0.000000016056717, z: 0.000000012557417, w: 1}
-        inSlope: {x: -0.000000003343059, y: 0.000000003603384, z: -0.0000000028162803, w: 0}
+        value: {x: 0.000000014901161, y: -0.000000016056717, z: 0.000000012557417,
+          w: 1}
+        inSlope: {x: -0.000000003343059, y: 0.000000003603384, z: -0.0000000028162803,
+          w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
         weightedMode: 0
@@ -420,7 +424,8 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: -0.000000029802322, y: 0.00000007560749, z: -0.0000000093391765, w: 1}
+        value: {x: -0.000000029802322, y: 0.00000007560749, z: -0.0000000093391765,
+          w: 1}
         inSlope: {x: 0, y: 0, z: 0, w: 0}
         outSlope: {x: 0.0000007861303, y: -0.0000020913535, z: 0.0000007480715, w: 0}
         tangentMode: 0
@@ -429,16 +434,19 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
       - serializedVersion: 3
         time: 1.6333334
-        value: {x: -0.00000002235166, y: 0.000000020300012, z: -0.000000028352106, w: 1}
+        value: {x: -0.00000002235166, y: 0.000000020300012, z: -0.000000028352106,
+          w: 1}
         inSlope: {x: 0.0000007722497, y: -0.00000003524364, z: 0.0000012714302, w: 0}
-        outSlope: {x: 0.00000077357873, y: -0.00000003821922, z: 0.0000012735728, w: 0}
+        outSlope: {x: 0.00000077357873, y: -0.00000003821922, z: 0.0000012735728,
+          w: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
       - serializedVersion: 3
         time: 3.266667
-        value: {x: -0.00000005960473, y: 0.000000002338492, z: -0.000000044825107, w: 1}
+        value: {x: -0.00000005960473, y: 0.000000002338492, z: -0.000000044825107,
+          w: 1}
         inSlope: {x: -0.00000037967126, y: 0.0000009720632, z: -0.0000011395509, w: 0}
         outSlope: {x: 0.0000024061892, y: 0.0000009723316, z: -0.0000011377348, w: 0}
         tangentMode: 0
@@ -457,7 +465,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.366667
         value: {x: 0.040834237, y: 0.000000033437342, z: -0.00000002565738, w: 0.99916595}
-        inSlope: {x: -0.00000912316, y: -0.000000060925416, z: 0.000000047276473, w: 0}
+        inSlope: {x: -0.00000912316, y: -0.000000060925416, z: 0.000000047276473,
+          w: 0}
         outSlope: {x: 0, y: -0.000000061225585, z: 0.000000046979565, w: 0}
         tangentMode: 0
         weightedMode: 0
@@ -476,7 +485,8 @@ AnimationClip:
         time: 9.633334
         value: {x: 0.040834237, y: 0.000000033437342, z: -0.00000002565738, w: 0.99916595}
         inSlope: {x: 0, y: -0.00000006119075, z: 0.000000046950174, w: 0}
-        outSlope: {x: -0.0000447035, y: -0.000000062230775, z: 0.000000047744226, w: 0}
+        outSlope: {x: -0.0000447035, y: -0.000000062230775, z: 0.000000047744226,
+          w: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -589,7 +599,8 @@ AnimationClip:
         time: 8.233334
         value: {x: -0.008003476, y: -0.00000009002458, z: -0.00000002116049, w: 0.999968}
         inSlope: {x: 0, y: -0.000000077395164, z: 0.000000036063955, w: 0}
-        outSlope: {x: -0.000001140395, y: -0.00000007746077, z: 0.00000003642257, w: 0}
+        outSlope: {x: -0.000001140395, y: -0.00000007746077, z: 0.00000003642257,
+          w: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -614,17 +625,22 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
       - serializedVersion: 3
         time: 13.166667
-        value: {x: -0.000000029802322, y: 0.0000000025482483, z: -0.000000007001256, w: 1}
-        inSlope: {x: 0.0000005318713, y: -0.000000005128033, z: 0.00000001239862, w: 0}
-        outSlope: {x: 0.000000053066785, y: -0.000000004537695, z: 0.0000000124673365, w: 0}
+        value: {x: -0.000000029802322, y: 0.0000000025482483, z: -0.000000007001256,
+          w: 1}
+        inSlope: {x: 0.0000005318713, y: -0.000000005128033, z: 0.00000001239862,
+          w: 0}
+        outSlope: {x: 0.000000053066785, y: -0.000000004537695, z: 0.0000000124673365,
+          w: 0}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
       - serializedVersion: 3
         time: 13.333334
-        value: {x: -0.000000029802322, y: 0.0000000025482483, z: -0.000000007001256, w: 1}
-        inSlope: {x: 0.00000053608215, y: -0.00000004583791, z: 0.00000012593635, w: 0}
+        value: {x: -0.000000029802322, y: 0.0000000025482483, z: -0.000000007001256,
+          w: 1}
+        inSlope: {x: 0.00000053608215, y: -0.00000004583791, z: 0.00000012593635,
+          w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
         weightedMode: 0
@@ -701,7 +717,8 @@ AnimationClip:
       - serializedVersion: 3
         time: 6.566667
         value: {x: -0.043619383, y: 0, z: 0, w: 0.99904823}
-        inSlope: {x: 0.0000022807894, y: -0.0000069898647, z: -0.000000086869356, w: 0}
+        inSlope: {x: 0.0000022807894, y: -0.0000069898647, z: -0.000000086869356,
+          w: 0}
         outSlope: {x: 0, y: 0, z: 0, w: 0}
         tangentMode: 0
         weightedMode: 0
@@ -842,7 +859,8 @@ AnimationClip:
         time: 9.866667
         value: {x: 0.03318432, y: 0.00000003330345, z: -0.0000000010504313, w: 0.99944925}
         inSlope: {x: -0.008584894, y: -0.00000006121254, z: 0.0000000022194493, w: 0.00029194113}
-        outSlope: {x: -0.008607697, y: -0.000000060516456, z: 0.0000000024523907, w: 0.00029194096}
+        outSlope: {x: -0.008607697, y: -0.000000060516456, z: 0.0000000024523907,
+          w: 0.00029194096}
         tangentMode: 0
         weightedMode: 0
         inWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334, w: 0.33333334}
@@ -4898,8 +4916,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3116252806
       attribute: 1
@@ -4907,8 +4923,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 515579353
       attribute: 1
@@ -4916,8 +4930,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1389651763
       attribute: 1
@@ -4925,8 +4937,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1792475951
       attribute: 1
@@ -4934,8 +4944,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3306513354
       attribute: 1
@@ -4943,8 +4951,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3068797384
       attribute: 1
@@ -4952,8 +4958,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3019681893
       attribute: 2
@@ -4961,8 +4965,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3850437279
       attribute: 2
@@ -4970,8 +4972,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3486013347
       attribute: 2
@@ -4979,8 +4979,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3247933925
       attribute: 2
@@ -4988,8 +4986,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3116252806
       attribute: 2
@@ -4997,8 +4993,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1664823954
       attribute: 2
@@ -5006,8 +5000,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3019681893
       attribute: 1
@@ -5015,8 +5007,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2515055434
       attribute: 1
@@ -5024,8 +5014,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3629537142
       attribute: 1
@@ -5033,8 +5021,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3651839846
       attribute: 1
@@ -5042,8 +5028,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 911750746
       attribute: 1
@@ -5051,8 +5035,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3850437279
       attribute: 1
@@ -5060,8 +5042,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1664823954
       attribute: 1
@@ -5069,8 +5049,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3247933925
       attribute: 1
@@ -5078,8 +5056,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1602847997
       attribute: 1
@@ -5087,8 +5063,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3486013347
       attribute: 1
@@ -5096,8 +5070,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 515579353
       attribute: 2
@@ -5105,8 +5077,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1389651763
       attribute: 2
@@ -5114,8 +5084,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1792475951
       attribute: 2
@@ -5123,8 +5091,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2515055434
       attribute: 2
@@ -5132,8 +5098,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3629537142
       attribute: 2
@@ -5141,8 +5105,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3651839846
       attribute: 2
@@ -5150,8 +5112,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 911750746
       attribute: 2
@@ -5159,8 +5119,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1602847997
       attribute: 2
@@ -5168,8 +5126,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3068797384
       attribute: 2
@@ -5177,8 +5133,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1491353828
       attribute: 2
@@ -5186,8 +5140,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3306513354
       attribute: 2
@@ -5195,8 +5147,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3019681893
       attribute: 3
@@ -5204,8 +5154,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 2515055434
       attribute: 3
@@ -5213,8 +5161,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3629537142
       attribute: 3
@@ -5222,8 +5168,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3651839846
       attribute: 3
@@ -5231,8 +5175,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 911750746
       attribute: 3
@@ -5240,8 +5182,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3850437279
       attribute: 3
@@ -5249,8 +5189,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1491353828
       attribute: 3
@@ -5258,8 +5196,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3116252806
       attribute: 3
@@ -5267,8 +5203,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 515579353
       attribute: 3
@@ -5276,8 +5210,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1389651763
       attribute: 3
@@ -5285,8 +5217,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1792475951
       attribute: 3
@@ -5294,8 +5224,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3306513354
       attribute: 3
@@ -5303,8 +5231,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1664823954
       attribute: 3
@@ -5312,8 +5238,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3068797384
       attribute: 3
@@ -5321,8 +5245,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3247933925
       attribute: 3
@@ -5330,8 +5252,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 1602847997
       attribute: 3
@@ -5339,8 +5259,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     - serializedVersion: 2
       path: 3486013347
       attribute: 3
@@ -5348,8 +5266,6 @@ AnimationClip:
       typeID: 4
       customType: 0
       isPPtrCurve: 0
-      isIntCurve: 0
-      isSerializeReferenceCurve: 0
     pptrCurveMapping: []
   m_AnimationClipSettings:
     serializedVersion: 2
@@ -5372,8 +5288,7 @@ AnimationClip:
     m_HeightFromFeet: 0
     m_Mirror: 0
   m_EditorCurves:
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5401,9 +5316,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5431,9 +5344,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5461,9 +5372,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5491,9 +5400,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5521,9 +5428,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5551,9 +5456,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5581,9 +5484,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5611,9 +5512,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5641,9 +5540,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5671,9 +5568,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5701,9 +5596,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5731,9 +5624,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5761,9 +5652,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5791,9 +5680,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5821,9 +5708,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5851,9 +5736,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5881,9 +5764,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5911,9 +5792,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5941,9 +5820,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -5971,9 +5848,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6001,9 +5876,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6031,9 +5904,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6061,9 +5932,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6091,9 +5960,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6121,9 +5988,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6151,9 +6016,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -6181,9 +6044,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -7219,9 +7080,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -8257,9 +8116,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -9295,9 +9152,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -10063,9 +9918,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -10831,9 +10684,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -11599,9 +11450,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -11971,9 +11820,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12343,9 +12190,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12715,9 +12560,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12781,9 +12624,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12847,9 +12688,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12913,9 +12752,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -12970,9 +12807,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13027,9 +12862,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13084,9 +12917,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13150,9 +12981,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13216,9 +13045,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13282,9 +13109,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -13978,9 +13803,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -14674,9 +14497,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -15370,9 +15191,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -15400,9 +15219,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -15430,9 +15247,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -15460,9 +15275,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -15787,9 +15600,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16114,9 +15925,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16441,9 +16250,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16471,9 +16278,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16501,9 +16306,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16531,9 +16334,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16561,9 +16362,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16591,9 +16390,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16621,9 +16418,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16651,9 +16446,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16681,9 +16474,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16711,9 +16502,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16741,9 +16530,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16771,9 +16558,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16801,9 +16586,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16831,9 +16614,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16861,9 +16642,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16891,9 +16670,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16921,9 +16698,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16951,9 +16726,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -16981,9 +16754,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17011,9 +16782,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17041,9 +16810,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17071,9 +16838,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17101,9 +16866,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17131,9 +16894,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17161,9 +16922,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17191,9 +16950,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17221,9 +16978,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17251,9 +17006,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17281,9 +17034,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17311,9 +17062,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17341,9 +17090,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17371,9 +17118,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17401,9 +17146,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17431,9 +17174,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17461,9 +17202,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17491,9 +17230,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17521,9 +17258,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17551,9 +17286,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17581,9 +17314,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17611,9 +17342,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17641,9 +17370,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17671,9 +17398,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17701,9 +17426,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17731,9 +17454,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17761,9 +17482,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17791,9 +17510,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17821,9 +17538,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17851,9 +17566,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17881,9 +17594,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17911,9 +17622,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17941,9 +17650,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -17971,9 +17678,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18001,9 +17706,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18031,9 +17734,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18061,9 +17762,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18091,9 +17790,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18121,9 +17818,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18151,9 +17846,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18181,9 +17874,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18211,9 +17902,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18241,9 +17930,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18352,9 +18039,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18463,9 +18148,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18574,9 +18257,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18685,9 +18366,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18715,9 +18394,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18745,9 +18422,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18775,9 +18450,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18805,9 +18478,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18835,9 +18506,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18865,9 +18534,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18895,9 +18562,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18925,9 +18590,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18955,9 +18618,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -18985,9 +18646,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19015,9 +18674,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19045,9 +18702,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19075,9 +18730,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19105,9 +18758,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19135,9 +18786,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19165,9 +18814,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19267,9 +18914,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19369,9 +19014,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19471,9 +19114,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19573,9 +19214,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19603,9 +19242,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19633,9 +19270,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19663,9 +19298,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19693,9 +19326,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19795,9 +19426,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19897,9 +19526,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -19999,9 +19626,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20101,9 +19726,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20131,9 +19754,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20161,9 +19782,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20191,9 +19810,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20221,9 +19838,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20323,9 +19938,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20425,9 +20038,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20527,9 +20138,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20629,9 +20238,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20659,9 +20266,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20689,9 +20294,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20719,9 +20322,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20749,9 +20350,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20851,9 +20450,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -20953,9 +20550,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21055,9 +20650,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21157,9 +20750,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21187,9 +20778,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21217,9 +20806,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21247,9 +20834,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21277,9 +20862,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21379,9 +20962,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21481,9 +21062,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21583,9 +21162,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21685,10 +21262,8 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
   m_EulerEditorCurves:
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21797,9 +21372,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -21908,9 +21481,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22019,9 +21590,7 @@ AnimationClip:
     path: Soporte_Giratorio
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22049,9 +21618,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22079,9 +21646,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22109,9 +21674,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22139,9 +21702,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22169,9 +21730,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22199,9 +21758,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22229,9 +21786,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22259,9 +21814,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22289,9 +21842,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_001/Piston_Inf_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22319,9 +21870,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22349,9 +21898,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22379,9 +21926,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22481,9 +22026,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22583,9 +22126,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22685,9 +22226,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22715,9 +22254,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22745,9 +22282,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22775,9 +22310,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22877,9 +22410,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -22979,9 +22510,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23081,9 +22610,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23111,9 +22638,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23141,9 +22666,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23171,9 +22694,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23201,9 +22722,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23231,9 +22750,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23261,9 +22778,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23291,9 +22806,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23321,9 +22834,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23351,9 +22862,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Arm_Sup_Base/Piston_Sup_001/Piston_Sup_002/Piston_Sup_003
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23381,9 +22890,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23411,9 +22918,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23441,9 +22946,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23543,9 +23046,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23645,9 +23146,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23747,9 +23246,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_006/Arm_Sup/Eje_005/Piston_Base002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23777,9 +23274,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23807,9 +23302,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23837,9 +23330,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -23939,9 +23430,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24041,9 +23530,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24143,9 +23630,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_004/Piston_Inf_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24173,9 +23658,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24203,9 +23686,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24233,9 +23714,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24335,9 +23814,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24437,9 +23914,7 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
+  - curve:
       serializedVersion: 2
       m_Curve:
       - serializedVersion: 3
@@ -24539,14 +24014,6 @@ AnimationClip:
     path: Soporte_Giratorio/Arm_Base/Eje_003/Arm_Middle_001/Eje_002/Piston_Base001
     classID: 4
     script: {fileID: 0}
-    flags: 0
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events:
-  - time: 13.333333
-    functionName: StopCraneSound
-    data: 
-    objectReferenceParameter: {fileID: 0}
-    floatParameter: 0
-    intParameter: 0
-    messageOptions: 0
+  m_Events: []
